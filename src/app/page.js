@@ -41,7 +41,7 @@ export default function Home() {
           redmeth
           <time className="text-xs opacity-50">4:22</time>
         </div>
-        <div className="chat-bubble">It's worldwide shipping bro 🌐</div>
+        <div className="chat-bubble">It's worldwide shipping bro! 🌐</div>
         <div className="chat-footer opacity-50">
           Seen at 4:22
         </div>
